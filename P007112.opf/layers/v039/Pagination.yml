@@ -1,6 +1,7 @@
 id: 24bb37b8272a46b89cbe82902fcb7cae
 annotation_type: Pagination
 revision: '00001'
+image_group_id: I0924
 annotations:
   3766ed9211994d788663ccd5b2b662ff:
     imgnum: 1
@@ -8,3243 +9,3784 @@ annotations:
     span:
       start: 0
       end: 854
+    pagination: null
   4869edd4e484440d9014ac788ed35903:
     imgnum: 2
     reference: 09240002.tif
     span:
       start: 859
       end: 1631
+    pagination: null
   559a448ee9cc4d61881cb01d7171e590:
     imgnum: 3
     reference: 09240003.tif
     span:
       start: 1636
       end: 1774
+    pagination: 1a
   323d21e91d01437c8d487ea70624ee68:
     imgnum: 4
     reference: 09240004.tif
     span:
       start: 1779
       end: 2270
+    pagination: 1b
   d8de66574f624140b36f97ce8bbce0db:
     imgnum: 5
     reference: 09240005.tif
     span:
       start: 2275
       end: 2955
+    pagination: 2a
   b066ed66867441e3b3f6d7fc54244266:
     imgnum: 6
     reference: 09240006.tif
     span:
       start: 2960
       end: 4279
+    pagination: 2b
   e5e6222fab5746858d53296d972d6a24:
     imgnum: 7
     reference: 09240007.tif
     span:
       start: 4284
       end: 5270
+    pagination: 3a
   ca6889529f4c4e0595c019b5999e1405:
     imgnum: 8
     reference: 09240008.tif
     span:
       start: 5275
       end: 6135
+    pagination: 3b
   ddc66305b34d4f17be84862a18e77e47:
     imgnum: 9
     reference: 09240009.tif
     span:
       start: 6140
       end: 7498
+    pagination: 4a
   c2c51d404eb64847b556a539c7f9739a:
     imgnum: 10
     reference: 09240010.tif
     span:
       start: 7503
       end: 8831
+    pagination: 4b
   df3f21c34fb341d9aef9bceeaec482b6:
     imgnum: 11
     reference: 09240011.tif
     span:
       start: 8836
       end: 10142
+    pagination: 5a
   aac6fa0471cb44f8b4b3bdf94994f664:
     imgnum: 12
     reference: 09240012.tif
     span:
       start: 10147
       end: 11475
+    pagination: 5b
   a304317f017d4211a603081e57a2826e:
     imgnum: 13
     reference: 09240013.tif
     span:
       start: 11480
       end: 12739
+    pagination: 6a
   1527de5cfccc4a6fbc3998b8c5848263:
     imgnum: 14
     reference: 09240014.tif
     span:
       start: 12744
       end: 13859
+    pagination: 6b
   cc46d7a13a6540f3af4228c1d4a11d8e:
     imgnum: 15
     reference: 09240015.tif
     span:
       start: 13864
       end: 15301
+    pagination: 7a
   acc2fb7e85ab474589deb37c98719ad0:
     imgnum: 16
     reference: 09240016.tif
     span:
       start: 15306
       end: 16635
+    pagination: 7b
   8f2e18d1c4284af8a31f86d89395a0b0:
     imgnum: 17
     reference: 09240017.tif
     span:
       start: 16640
       end: 17968
+    pagination: 8a
   b5d0044918a3491ab59989368732109a:
     imgnum: 18
     reference: 09240018.tif
     span:
       start: 17973
       end: 19388
+    pagination: 8b
   aea18eb09a2b44d383600a6e1a02ede6:
     imgnum: 19
     reference: 09240019.tif
     span:
       start: 19393
       end: 20738
+    pagination: 9a
   f4b9cd9df3134bae938fbf48d07f0d25:
     imgnum: 20
     reference: 09240020.tif
     span:
       start: 20743
       end: 21859
+    pagination: 9b
   37aa13f8c1db47909a58948b34213b17:
     imgnum: 21
     reference: 09240021.tif
     span:
       start: 21864
       end: 23142
+    pagination: 10a
   e1b03bd0481441a6a6391ab43059526a:
     imgnum: 22
     reference: 09240022.tif
     span:
       start: 23147
       end: 24130
+    pagination: 10b
   403ccb4b235d46bead70657140679597:
     imgnum: 23
     reference: 09240023.tif
     span:
       start: 24135
       end: 25406
+    pagination: 11a
   75c940ee3d3142888ce9c4df4edb9a2b:
     imgnum: 24
     reference: 09240024.tif
     span:
       start: 25411
       end: 26613
+    pagination: 11b
   f2d18f8879f244dfaae570dcb53edce9:
     imgnum: 25
     reference: 09240025.tif
     span:
       start: 26618
       end: 27782
+    pagination: 12a
   bfe1319c10234041a6cf0c5e832d6889:
     imgnum: 26
     reference: 09240026.tif
     span:
       start: 27787
       end: 28993
+    pagination: 12b
   5c059b3c019b4860926459028e289073:
     imgnum: 27
     reference: 09240027.tif
     span:
       start: 28998
       end: 29784
+    pagination: 13a
   b0d08d029b204fbaa04200415e9ede18:
     imgnum: 28
     reference: 09240028.tif
     span:
       start: 29789
       end: 30772
+    pagination: 13b
   1d84d396334c487bb07b7e8a16bc8203:
     imgnum: 29
     reference: 09240029.tif
     span:
       start: 30777
       end: 31729
+    pagination: 14a
   aada19cc0d4f4932a8c51cb1960b9dae:
     imgnum: 30
     reference: 09240030.tif
     span:
       start: 31734
       end: 33111
+    pagination: 14b
   44ac57e89f0147d7896c0df9341a72cf:
     imgnum: 31
     reference: 09240031.tif
     span:
       start: 33116
       end: 34303
+    pagination: 15a
   8abc905d3d0341fb9a9e14369d163250:
     imgnum: 32
     reference: 09240032.tif
     span:
       start: 34308
       end: 35402
+    pagination: 15b
   78cd04c88aa04d158dc320e73d3e3978:
     imgnum: 33
     reference: 09240033.tif
     span:
       start: 35407
       end: 36354
+    pagination: 16a
   ede5431d376140b58952ae5c5bcdefdc:
     imgnum: 34
     reference: 09240034.tif
     span:
       start: 36359
       end: 37662
+    pagination: 16b
   52bc5f173df942b2892b7a1aab834c69:
     imgnum: 35
     reference: 09240035.tif
     span:
       start: 37667
       end: 38665
+    pagination: 17a
   3d4fe44560f74e2693e1bbd71652eab4:
     imgnum: 36
     reference: 09240036.tif
     span:
       start: 38670
       end: 39804
+    pagination: 17b
   6730e4845fe24c27a61896de7fa46015:
     imgnum: 37
     reference: 09240037.tif
     span:
       start: 39809
       end: 40957
+    pagination: 18a
   8e59c2b5cb104e17b33aefcbe7507704:
     imgnum: 38
     reference: 09240038.tif
     span:
       start: 40962
       end: 42455
+    pagination: 18b
   e5ac844d18124b16ae2d320276829a06:
     imgnum: 39
     reference: 09240039.tif
     span:
       start: 42460
       end: 43382
+    pagination: 19a
   8190b4d222fd46c9af9450129c912595:
     imgnum: 40
     reference: 09240040.tif
     span:
       start: 43387
       end: 44650
+    pagination: 19b
   d0a06f02a37e47e8b123416a734b8546:
     imgnum: 41
     reference: 09240041.tif
     span:
       start: 44655
       end: 45806
+    pagination: 20a
   9522258a9e77430998bce6a6792dc4db:
     imgnum: 42
     reference: 09240042.tif
     span:
       start: 45811
       end: 46919
+    pagination: 20b
   f5d8219267e04653bbce2492322897e5:
     imgnum: 43
     reference: 09240043.tif
     span:
       start: 46924
       end: 47761
+    pagination: 21a
   1713d002a9cd4ef2ad00b8aa3bccb27a:
     imgnum: 44
     reference: 09240044.tif
     span:
       start: 47766
       end: 48949
+    pagination: 21b
   c447a93bf9324a11846eea0904d2cb91:
     imgnum: 45
     reference: 09240045.tif
     span:
       start: 48954
       end: 50072
+    pagination: 22a
   c96c7e5390e54b4487191b6aa9d6e7ef:
     imgnum: 46
     reference: 09240046.tif
     span:
       start: 50077
       end: 51328
+    pagination: 22b
   38bbe297e2c8401bbab1f11a7c82e4b6:
     imgnum: 47
     reference: 09240047.tif
     span:
       start: 51333
       end: 52411
+    pagination: 23a
   10238c0755814462b291675b8bdfa014:
     imgnum: 48
     reference: 09240048.tif
     span:
       start: 52416
       end: 52821
+    pagination: 23b
   964786f738a644ff88cd15f1cb50ad1c:
     imgnum: 49
     reference: 09240049.tif
     span:
       start: 52826
       end: 54295
+    pagination: 24a
   88830c51be6140bea8b875da95c18a02:
     imgnum: 50
     reference: 09240050.tif
     span:
       start: 54300
       end: 55397
+    pagination: 24b
   804156d53e9c493d8bddd7b27d417047:
     imgnum: 51
     reference: 09240051.tif
     span:
       start: 55402
       end: 56882
+    pagination: 25a
   1ad10c0711f149b698754ce8b74605b8:
     imgnum: 52
     reference: 09240052.tif
     span:
       start: 56887
       end: 57911
+    pagination: 25b
   b1dc666277674cf4a391d13578896e7d:
     imgnum: 53
     reference: 09240053.tif
     span:
       start: 57916
       end: 59397
+    pagination: 26a
   3171bdf9dca3478e9e3f70b0948b00ef:
     imgnum: 54
     reference: 09240054.tif
     span:
       start: 59402
       end: 60894
+    pagination: 26b
   15bb34b4a6e3477f8491e5015ad09ff9:
     imgnum: 55
     reference: 09240055.tif
     span:
       start: 60899
       end: 62220
+    pagination: 27a
   de59e722bd194767975cf22b5b6c77fc:
     imgnum: 56
     reference: 09240056.tif
     span:
       start: 62225
       end: 63432
+    pagination: 27b
   793ee883d8f948edb9eebb208cc2655e:
     imgnum: 57
     reference: 09240057.tif
     span:
       start: 63437
       end: 64893
+    pagination: 28a
   9f13198a965340168d08c34b0ea38b59:
     imgnum: 58
     reference: 09240058.tif
     span:
       start: 64898
       end: 66239
+    pagination: 28b
   3eb5700669dd48038671f8439ccfbb17:
     imgnum: 59
     reference: 09240059.tif
     span:
       start: 66244
       end: 67515
+    pagination: 29a
   2b9037d33d8e46b1826caa7e63dcdfbf:
     imgnum: 60
     reference: 09240060.tif
     span:
       start: 67520
       end: 68485
+    pagination: 29b
   751e62f598dd480a9d8c796bb3ae8766:
     imgnum: 61
     reference: 09240061.tif
     span:
       start: 68490
       end: 69528
+    pagination: 30a
   e9ee68103b354ee8a0c50cd26f17fc4d:
     imgnum: 62
     reference: 09240062.tif
     span:
       start: 69533
       end: 70681
+    pagination: 30b
   beeefe0003f84a0087d8c80b52a185a8:
     imgnum: 63
     reference: 09240063.tif
     span:
       start: 70686
       end: 71543
+    pagination: 31a
   6954be265d664024b680c9c084f2d8ac:
     imgnum: 64
     reference: 09240064.tif
     span:
       start: 71548
       end: 72888
+    pagination: 31b
   7f613589e9a443ff851657f8d49c9779:
     imgnum: 65
     reference: 09240065.tif
     span:
       start: 72893
       end: 74145
+    pagination: 32a
   e32fd13eb979497da7587763f72ac463:
     imgnum: 66
     reference: 09240066.tif
     span:
       start: 74150
       end: 75313
+    pagination: 32b
   aa0442f963a54dc895754f046d41acbc:
     imgnum: 67
     reference: 09240067.tif
     span:
       start: 75318
       end: 76637
+    pagination: 33a
   8c86003bf1b64b30bb6be9d86180601f:
     imgnum: 68
     reference: 09240068.tif
     span:
       start: 76642
       end: 77751
+    pagination: 33b
   fa1b94057e754f3bb824ede0eb152341:
     imgnum: 69
     reference: 09240069.tif
     span:
       start: 77756
       end: 79178
+    pagination: 34a
   ede4e4b4aee141e9807c76c4a8c5cb34:
     imgnum: 70
     reference: 09240070.tif
     span:
       start: 79183
       end: 80313
+    pagination: 34b
   4b7a718fc795485ead49dbfb20797125:
     imgnum: 71
     reference: 09240071.tif
     span:
       start: 80318
       end: 81681
+    pagination: 35a
   93860485e25c44c6ad3d075a282c9027:
     imgnum: 72
     reference: 09240072.tif
     span:
       start: 81686
       end: 82987
+    pagination: 35b
   c225402979ad4e2683d08873f217c87a:
     imgnum: 73
     reference: 09240073.tif
     span:
       start: 82992
       end: 84222
+    pagination: 36a
   47e8db2df8a64dfa8aed839993884976:
     imgnum: 74
     reference: 09240074.tif
     span:
       start: 84227
       end: 85515
+    pagination: 36b
   b8d49d6b7dfb4527b9d182a27174b155:
     imgnum: 75
     reference: 09240075.tif
     span:
       start: 85520
       end: 86800
+    pagination: 37a
   a19d56804c6d418b95e5780a0082fc0f:
     imgnum: 76
     reference: 09240076.tif
     span:
       start: 86805
       end: 87970
+    pagination: 37b
   d0e02cec2ccf45a380055bbe82bf2b02:
     imgnum: 77
     reference: 09240077.tif
     span:
       start: 87975
       end: 89320
+    pagination: 38a
   c81c4047cda54c578e1e18e3536760d3:
     imgnum: 78
     reference: 09240078.tif
     span:
       start: 89325
       end: 90725
+    pagination: 38b
   98006a781ed440d4b9fbf4c0f39e8630:
     imgnum: 79
     reference: 09240079.tif
     span:
       start: 90730
       end: 92091
+    pagination: 39a
   2521f3f58b8a4910a1c0d6bbd40f9077:
     imgnum: 80
     reference: 09240080.tif
     span:
       start: 92096
       end: 93586
+    pagination: 39b
   ccf58397f2054ec29aa2756f357063eb:
     imgnum: 81
     reference: 09240081.tif
     span:
       start: 93591
       end: 94640
+    pagination: 40a
   ccdd02a14db04c9c8f19cd410762222d:
     imgnum: 82
     reference: 09240082.tif
     span:
       start: 94645
       end: 95547
+    pagination: 40b
   509e9b2f004b479691d731c2f0f8e452:
     imgnum: 83
     reference: 09240083.tif
     span:
       start: 95552
       end: 96878
+    pagination: 41a
   ed7a74821a114c90b08cea3551a6010b:
     imgnum: 84
     reference: 09240084.tif
     span:
       start: 96883
       end: 97920
+    pagination: 41b
   da88f008225a4795ab39149bf743c844:
     imgnum: 85
     reference: 09240085.tif
     span:
       start: 97925
       end: 99145
+    pagination: 42a
   46d5ea69df9740818dea9152f13bc4f8:
     imgnum: 86
     reference: 09240086.tif
     span:
       start: 99150
       end: 100264
+    pagination: 42b
   2716083b171f4c13b10b407005449032:
     imgnum: 87
     reference: 09240087.tif
     span:
       start: 100269
       end: 101350
+    pagination: 43a
   7ba06ed85b454bb9aa584192692427af:
     imgnum: 88
     reference: 09240088.tif
     span:
       start: 101355
       end: 102832
+    pagination: 43b
   ab77d89b0ea24530ab918e9017e6698d:
     imgnum: 89
     reference: 09240089.tif
     span:
       start: 102837
       end: 104086
+    pagination: 44a
   6c9dd00571134d6cb159767efc5e81fd:
     imgnum: 90
     reference: 09240090.tif
     span:
       start: 104091
       end: 105385
+    pagination: 44b
   304fd98eddd84addb53ff1ecb8bfe2bb:
     imgnum: 91
     reference: 09240091.tif
     span:
       start: 105390
       end: 106612
+    pagination: 45a
   d78cef7deaaa486c8972d52544c0bca4:
     imgnum: 92
     reference: 09240092.tif
     span:
       start: 106617
       end: 107358
+    pagination: 45b
   5988fcd979cc42339e6ae097beb05386:
     imgnum: 93
     reference: 09240093.tif
     span:
       start: 107363
       end: 108568
+    pagination: 46a
   5bec63908b364bcba1403cd8723e85ef:
     imgnum: 94
     reference: 09240094.tif
     span:
       start: 108573
       end: 109258
+    pagination: 46b
   645d21bb8a6d4619a7c7c0995c52380f:
     imgnum: 95
     reference: 09240095.tif
     span:
       start: 109263
       end: 110509
+    pagination: 47a
   77ddcc6bfd98491a9d644ad76a7f0cc8:
     imgnum: 96
     reference: 09240096.tif
     span:
       start: 110514
       end: 111764
+    pagination: 47b
   a9dab3d79a9e48209f2dd5975144b056:
     imgnum: 97
     reference: 09240097.tif
     span:
       start: 111769
       end: 112925
+    pagination: 48a
   486daa4aa14f46139fb0f396bd1292f7:
     imgnum: 98
     reference: 09240098.tif
     span:
       start: 112930
       end: 114243
+    pagination: 48b
   0d06455075414d22a2eca910ffafdc42:
     imgnum: 99
     reference: 09240099.tif
     span:
       start: 114248
       end: 115490
+    pagination: 49a
   fa26c7a8dfd24ffaa975efe573346e4e:
     imgnum: 100
     reference: 09240100.tif
     span:
       start: 115495
       end: 116584
+    pagination: 49b
   1c2329323d574819ade2d2263199bd96:
     imgnum: 101
     reference: 09240101.tif
     span:
       start: 116589
       end: 117928
+    pagination: 50a
   cc964b00a32b4879ba1b726f0e589a9e:
     imgnum: 102
     reference: 09240102.tif
     span:
       start: 117933
       end: 119156
+    pagination: 50b
   00abd72dd84240e1ae4a82e522f5cb1b:
     imgnum: 103
     reference: 09240103.tif
     span:
       start: 119161
       end: 120430
+    pagination: 51a
   7bef2eeef9184058a70cdddacbdcea2a:
     imgnum: 104
     reference: 09240104.tif
     span:
       start: 120435
       end: 121814
+    pagination: 51b
   8758040153524c70997a2557a3de7ddb:
     imgnum: 105
     reference: 09240105.tif
     span:
       start: 121819
       end: 123016
+    pagination: 52a
   0532b851288549a7806bc9ce4de3ad7d:
     imgnum: 106
     reference: 09240106.tif
     span:
       start: 123021
       end: 124437
+    pagination: 52b
   12accfe0dab24d8d862bafc031173bc8:
     imgnum: 107
     reference: 09240107.tif
     span:
       start: 124442
       end: 125836
+    pagination: 53a
   45e601d03a4a4a3ca1e6d2c7c6a24e02:
     imgnum: 108
     reference: 09240108.tif
     span:
       start: 125841
       end: 126948
+    pagination: 53b
   8537f47db2d54014bddd98694ce5073a:
     imgnum: 109
     reference: 09240109.tif
     span:
       start: 126953
       end: 128319
+    pagination: 54a
   4475d43c4d224d97a3aa153125e09a28:
     imgnum: 110
     reference: 09240110.tif
     span:
       start: 128324
       end: 129786
+    pagination: 54b
   39bc55f05a49421897cfdad730923d8e:
     imgnum: 111
     reference: 09240111.tif
     span:
       start: 129791
       end: 131105
+    pagination: 55a
   5c85298a83374d49adc103cf44b900b9:
     imgnum: 112
     reference: 09240112.tif
     span:
       start: 131110
       end: 132469
+    pagination: 55b
   ea42b35637884445a0cdca639d8728d3:
     imgnum: 113
     reference: 09240113.tif
     span:
       start: 132474
       end: 133791
+    pagination: 56a
   4fb7e748c5ee4e72b795ae3cebd04cc6:
     imgnum: 114
     reference: 09240114.tif
     span:
       start: 133796
       end: 135097
+    pagination: 56b
   608e785d093f448693a99041d6bf0a50:
     imgnum: 115
     reference: 09240115.tif
     span:
       start: 135102
       end: 136493
+    pagination: 57a
   66df8b329d33440aa928bd69b33c9f33:
     imgnum: 116
     reference: 09240116.tif
     span:
       start: 136498
       end: 137759
+    pagination: 57b
   965fd019ce57403294cac35eb45376ef:
     imgnum: 117
     reference: 09240117.tif
     span:
       start: 137764
       end: 139210
+    pagination: 58a
   0827a671bb234fbc8fa57ef1444fee4f:
     imgnum: 118
     reference: 09240118.tif
     span:
       start: 139215
       end: 140664
+    pagination: 58b
   f9157126135d4d2d9f64ce3a9b943bd8:
     imgnum: 119
     reference: 09240119.tif
     span:
       start: 140669
       end: 141963
+    pagination: 59a
   553e18526a204c5f86b4a6ca4273b7ff:
     imgnum: 120
     reference: 09240120.tif
     span:
       start: 141968
       end: 143148
+    pagination: 59b
   17ca6b00d0444027893695d1d7ebbb2e:
     imgnum: 121
     reference: 09240121.tif
     span:
       start: 143153
       end: 144516
+    pagination: 60a
   fedb01d2db56415d90ad4067bd27773a:
     imgnum: 122
     reference: 09240122.tif
     span:
       start: 144521
       end: 145049
+    pagination: 60b
   47cdfcd87bd842119f79c093acf67acc:
     imgnum: 123
     reference: 09240123.tif
     span:
       start: 145054
       end: 146255
+    pagination: 61a
   478fe6368f424b86a7a3f7f326b60427:
     imgnum: 124
     reference: 09240124.tif
     span:
       start: 146260
       end: 147387
+    pagination: 61b
   6e7ed5fefef5473ebc648a1b6ae8d8ef:
     imgnum: 125
     reference: 09240125.tif
     span:
       start: 147392
       end: 148655
+    pagination: 62a
   0b07645c0fa14c5a8153075ee5bfde60:
     imgnum: 126
     reference: 09240126.tif
     span:
       start: 148660
       end: 149980
+    pagination: 62b
   16389039b713496893f51612e202f1d6:
     imgnum: 127
     reference: 09240127.tif
     span:
       start: 149985
       end: 151317
+    pagination: 63a
   de6d05a5905047dfb00a46ef040f135f:
     imgnum: 128
     reference: 09240128.tif
     span:
       start: 151322
       end: 152356
+    pagination: 63b
   5c4111444b7946cfac5e06cd60a54256:
     imgnum: 129
     reference: 09240129.tif
     span:
       start: 152361
       end: 153617
+    pagination: 64a
   7b628570cdde4614b3499db673d808d9:
     imgnum: 130
     reference: 09240130.tif
     span:
       start: 153622
       end: 154897
+    pagination: 64b
   40094eefb8784de6b8f488a1c11f39e6:
     imgnum: 131
     reference: 09240131.tif
     span:
       start: 154902
       end: 156153
+    pagination: 65a
   5adcfc6765a14c58827da2d513049fc5:
     imgnum: 132
     reference: 09240132.tif
     span:
       start: 156158
       end: 157369
+    pagination: 65b
   781ff673275341bbaec5627413b9bd01:
     imgnum: 133
     reference: 09240133.tif
     span:
       start: 157374
       end: 158722
+    pagination: 66a
   9927c52dc7b349d8b0e3f9275aa7cd93:
     imgnum: 134
     reference: 09240134.tif
     span:
       start: 158727
       end: 159918
+    pagination: 66b
   52dfe7bc563f4947b35880844f400f3d:
     imgnum: 135
     reference: 09240135.tif
     span:
       start: 159923
       end: 161199
+    pagination: 67a
   8861d249ba094200a66af0c3fee632a9:
     imgnum: 136
     reference: 09240136.tif
     span:
       start: 161204
       end: 162681
+    pagination: 67b
   e24cb262d94a43bc9e43440f51c60d79:
     imgnum: 137
     reference: 09240137.tif
     span:
       start: 162686
       end: 163978
+    pagination: 68a
   7e3e80e3a1104abf9be18ba0b3876030:
     imgnum: 138
     reference: 09240138.tif
     span:
       start: 163983
       end: 165281
+    pagination: 68b
   1f0d4aab7cac4252ab8005bcf84144e0:
     imgnum: 139
     reference: 09240139.tif
     span:
       start: 165286
       end: 166308
+    pagination: 69a
   b8f00732173f4046b3164d9ccafc2dfc:
     imgnum: 140
     reference: 09240140.tif
     span:
       start: 166313
       end: 167600
+    pagination: 69b
   4eb8e1faab134a6db15bd0e56f85866f:
     imgnum: 141
     reference: 09240141.tif
     span:
       start: 167605
       end: 169015
+    pagination: 70a
   5bf4e915f4f3479c998f8c75a9cd2f24:
     imgnum: 142
     reference: 09240142.tif
     span:
       start: 169020
       end: 170362
+    pagination: 70b
   49dd61d78daa492da891431f8f32d33a:
     imgnum: 143
     reference: 09240143.tif
     span:
       start: 170367
       end: 171648
+    pagination: 71a
   df91eae3ff9a4a0ca57a87b661efe83b:
     imgnum: 144
     reference: 09240144.tif
     span:
       start: 171653
       end: 172949
+    pagination: 71b
   e24d658ec9a2405091ee6d2fda307b24:
     imgnum: 145
     reference: 09240145.tif
     span:
       start: 172954
       end: 174266
+    pagination: 72a
   83991beea66d4bcdaf1fbff8760b1812:
     imgnum: 146
     reference: 09240146.tif
     span:
       start: 174271
       end: 175345
+    pagination: 72b
   b84bce222d03403c88c9c797470175af:
     imgnum: 147
     reference: 09240147.tif
     span:
       start: 175350
       end: 176295
+    pagination: 73a
   60ecf1f4259c4654ae6ed766cba88c9b:
     imgnum: 148
     reference: 09240148.tif
     span:
       start: 176300
       end: 177565
+    pagination: 73b
   3b24332a31a74e099ee6c9c66664037e:
     imgnum: 149
     reference: 09240149.tif
     span:
       start: 177570
       end: 178790
+    pagination: 74a
   3eea934171fc4debbd655964311ed948:
     imgnum: 150
     reference: 09240150.tif
     span:
       start: 178795
       end: 179910
+    pagination: 74b
   f39f8e1e5ae64ecba09fffe9d412d9d8:
     imgnum: 151
     reference: 09240151.tif
     span:
       start: 179915
       end: 181241
+    pagination: 75a
   131cdf0634c1446f8085fe518ceeda7e:
     imgnum: 152
     reference: 09240152.tif
     span:
       start: 181246
       end: 182497
+    pagination: 75b
   bccde0f95caa495ca4a6c7c46c2c6cef:
     imgnum: 153
     reference: 09240153.tif
     span:
       start: 182502
       end: 183826
+    pagination: 76a
   5f3cee0efbc841ed9dfcb1b40cb3f87a:
     imgnum: 154
     reference: 09240154.tif
     span:
       start: 183831
       end: 185075
+    pagination: 76b
   ae8e4c1efdf34744854a56bcc7934050:
     imgnum: 155
     reference: 09240155.tif
     span:
       start: 185080
       end: 186117
+    pagination: 77a
   c9ea798fa7ee490c91a1202dabe82b11:
     imgnum: 156
     reference: 09240156.tif
     span:
       start: 186122
       end: 186946
+    pagination: 77b
   8884fae169074e2b964c08337ed9ff2a:
     imgnum: 157
     reference: 09240157.tif
     span:
       start: 186951
       end: 188400
+    pagination: 78a
   a2a45be7c91041e5b0bb093f59574d6b:
     imgnum: 158
     reference: 09240158.tif
     span:
       start: 188405
       end: 189885
+    pagination: 78b
   a49482bb22f043eab9b7ab8a9af07bdf:
     imgnum: 159
     reference: 09240159.tif
     span:
       start: 189890
       end: 191228
+    pagination: 79a
   ff27390cc8f14a0d85c0def5c8009a6d:
     imgnum: 160
     reference: 09240160.tif
     span:
       start: 191233
       end: 192392
+    pagination: 79b
   ab0ede6863cf45e488b3d1cec0f29d9c:
     imgnum: 161
     reference: 09240161.tif
     span:
       start: 192397
       end: 193504
+    pagination: 80a
   76c31d7b971e49ed8ceb22820cef1bf3:
     imgnum: 162
     reference: 09240162.tif
     span:
       start: 193509
       end: 194688
+    pagination: 80b
   592b085adf444c89944434f8b6f7fec0:
     imgnum: 163
     reference: 09240163.tif
     span:
       start: 194693
       end: 195922
+    pagination: 81a
   512c43c23ae6483fa6266dd2f1b55efa:
     imgnum: 164
     reference: 09240164.tif
     span:
       start: 195927
       end: 197121
+    pagination: 81b
   32f7621242944149826c85c5c07b2e3e:
     imgnum: 165
     reference: 09240165.tif
     span:
       start: 197126
       end: 198406
+    pagination: 82a
   4cfc4bec3ea04024ba1f0e1c3cac2aaa:
     imgnum: 166
     reference: 09240166.tif
     span:
       start: 198411
       end: 199760
+    pagination: 82b
   a6de9b48412a489e956ca5201a418315:
     imgnum: 167
     reference: 09240167.tif
     span:
       start: 199765
       end: 201083
+    pagination: 83a
   e036ec5fe2a84028b66c172a9fdcdd42:
     imgnum: 168
     reference: 09240168.tif
     span:
       start: 201088
       end: 202414
+    pagination: 83b
   c77faa415c874240bd38ed80d0002c38:
     imgnum: 169
     reference: 09240169.tif
     span:
       start: 202419
       end: 203694
+    pagination: 84a
   43e398ae655d4833841d95f4245d17d4:
     imgnum: 170
     reference: 09240170.tif
     span:
       start: 203699
       end: 204940
+    pagination: 84b
   2cf49ffe8023417994fea5988070496c:
     imgnum: 171
     reference: 09240171.tif
     span:
       start: 204945
       end: 206243
+    pagination: 85a
   c0ff7a72d1404a06b67044fee8890f03:
     imgnum: 172
     reference: 09240172.tif
     span:
       start: 206248
       end: 207390
+    pagination: 85b
   54d4785eb9af4b5e8ca3e73d0099cd03:
     imgnum: 173
     reference: 09240173.tif
     span:
       start: 207395
       end: 208552
+    pagination: 86a
   812555d8de894d398770f4d5bc4feb1d:
     imgnum: 174
     reference: 09240174.tif
     span:
       start: 208557
       end: 209816
+    pagination: 86b
   2ee1102da793461aadf9b9a99d8e1a66:
     imgnum: 175
     reference: 09240175.tif
     span:
       start: 209821
       end: 211120
+    pagination: 87a
   9c1cbbac88e441b38075c74304e12d59:
     imgnum: 176
     reference: 09240176.tif
     span:
       start: 211125
       end: 212229
+    pagination: 87b
   eb2c2fdf503648c8a8dbcbb27f6ac82f:
     imgnum: 177
     reference: 09240177.tif
     span:
       start: 212234
       end: 213483
+    pagination: 88a
   2c0efc66442941a992e55a59d7a7215d:
     imgnum: 178
     reference: 09240178.tif
     span:
       start: 213488
       end: 214640
+    pagination: 88b
   38980fdfe34149de9f53ff25359f3240:
     imgnum: 179
     reference: 09240179.tif
     span:
       start: 214645
       end: 215964
+    pagination: 89a
   7c759c0b14984285a3fad1e10867660b:
     imgnum: 180
     reference: 09240180.tif
     span:
       start: 215969
       end: 217256
+    pagination: 89b
   f100bcc95b5444fb85482698e314de1b:
     imgnum: 181
     reference: 09240181.tif
     span:
       start: 217261
       end: 218622
+    pagination: 90a
   2bbd2af7eba54c0fbf42019cde01256a:
     imgnum: 182
     reference: 09240182.tif
     span:
       start: 218627
       end: 219871
+    pagination: 90b
   f33c0c0b7b5e4397bf013856debc31b7:
     imgnum: 183
     reference: 09240183.tif
     span:
       start: 219876
       end: 221157
+    pagination: 91a
   4cdd9d33e4a243029eb2d391bc25c883:
     imgnum: 184
     reference: 09240184.tif
     span:
       start: 221162
       end: 222472
+    pagination: 91b
   77f88adfd2ef4b3c8b8a144a7c58f22a:
     imgnum: 185
     reference: 09240185.tif
     span:
       start: 222477
       end: 223551
+    pagination: 92a
   d4623b176051422bb5ac9b0e0191e7d0:
     imgnum: 186
     reference: 09240186.tif
     span:
       start: 223556
       end: 224633
+    pagination: 92b
   4c22da97caa944d4ae240027d0724818:
     imgnum: 187
     reference: 09240187.tif
     span:
       start: 224638
       end: 225943
+    pagination: 93a
   24c325c48b8a4aa991d6045f0c915380:
     imgnum: 188
     reference: 09240188.tif
     span:
       start: 225948
       end: 227448
+    pagination: 93b
   a676cb33ced848b5a4dfa631843ffeb7:
     imgnum: 189
     reference: 09240189.tif
     span:
       start: 227453
       end: 228522
+    pagination: 94a
   b442c86931e84f499820e838b8cfeb73:
     imgnum: 190
     reference: 09240190.tif
     span:
       start: 228527
       end: 229629
+    pagination: 94b
   b16b3079f79e4d4ab5c3c1d52770dfa2:
     imgnum: 191
     reference: 09240191.tif
     span:
       start: 229634
       end: 230877
+    pagination: 95a
   77a648a5b5814650a475e580fe094b0d:
     imgnum: 192
     reference: 09240192.tif
     span:
       start: 230882
       end: 232085
+    pagination: 95b
   5d8aa1b6197c48a8a593ea349325ed40:
     imgnum: 193
     reference: 09240193.tif
     span:
       start: 232090
       end: 233362
+    pagination: 96a
   b8add4c4cb574d5ea1abb83deb1ecc90:
     imgnum: 194
     reference: 09240194.tif
     span:
       start: 233367
       end: 234707
+    pagination: 96b
   55fa649365f6455fb35a8d58fb32a02c:
     imgnum: 195
     reference: 09240195.tif
     span:
       start: 234712
       end: 236067
+    pagination: 97a
   e813e676b3d04374a4727db177e58e3d:
     imgnum: 196
     reference: 09240196.tif
     span:
       start: 236072
       end: 237387
+    pagination: 97b
   31e0e7ee782e49bf961462d9ed98f27d:
     imgnum: 197
     reference: 09240197.tif
     span:
       start: 237392
       end: 238630
+    pagination: 98a
   25f58a934202440a9ee3ff2f41a10a4f:
     imgnum: 198
     reference: 09240198.tif
     span:
       start: 238635
       end: 240016
+    pagination: 98b
   e2d6f17ffee740069a6192742c131cac:
     imgnum: 199
     reference: 09240199.tif
     span:
       start: 240021
       end: 241375
+    pagination: 99a
   21b75490affa4bc79da5c790308653f0:
     imgnum: 200
     reference: 09240200.tif
     span:
       start: 241380
       end: 242643
+    pagination: 99b
   71a7c8b8e59e42a29bad12c7a09d9595:
     imgnum: 201
     reference: 09240201.tif
     span:
       start: 242648
       end: 243884
+    pagination: 100a
   d02bfeeb149e4a7e9dfce1c4d6ba6543:
     imgnum: 202
     reference: 09240202.tif
     span:
       start: 243889
       end: 245192
+    pagination: 100b
   418fd62e75074c6b8baec5e977157d58:
     imgnum: 203
     reference: 09240203.tif
     span:
       start: 245197
       end: 246336
+    pagination: 101a
   af8ee657312b41d9a463f96ee8bae365:
     imgnum: 204
     reference: 09240204.tif
     span:
       start: 246341
       end: 247447
+    pagination: 101b
   1a12693e210947c88848a639d303f1a5:
     imgnum: 205
     reference: 09240205.tif
     span:
       start: 247452
       end: 248756
+    pagination: 102a
   4fafc88646da425bafa690af0a086e3e:
     imgnum: 206
     reference: 09240206.tif
     span:
       start: 248761
       end: 249504
+    pagination: 102b
   85259c06f24a4910accd12ba7bff0774:
     imgnum: 207
     reference: 09240207.tif
     span:
       start: 249509
       end: 250665
+    pagination: 103a
   33a4f62be6bd47ce8363ed00bbf4ff4b:
     imgnum: 208
     reference: 09240208.tif
     span:
       start: 250670
       end: 251060
+    pagination: 103b
   8f96f29707d9415f8df0815fd88ad87a:
     imgnum: 209
     reference: 09240209.tif
     span:
       start: 251065
       end: 252252
+    pagination: 104a
   b46a2a42e1ed424988329a8474fa38a8:
     imgnum: 210
     reference: 09240210.tif
     span:
       start: 252257
       end: 253467
+    pagination: 104b
   d1b047a3dc954b7d91e6290fc96561cc:
     imgnum: 211
     reference: 09240211.tif
     span:
       start: 253472
       end: 254465
+    pagination: 105a
   867a12854b9e48989cde692efb6cf13a:
     imgnum: 212
     reference: 09240212.tif
     span:
       start: 254470
       end: 255634
+    pagination: 105b
   86d56c21173347ad8dcc02c035aaeb46:
     imgnum: 213
     reference: 09240213.tif
     span:
       start: 255639
       end: 257010
+    pagination: 106a
   d256dc6cf7424cfbb93ae73ab7de0d7b:
     imgnum: 214
     reference: 09240214.tif
     span:
       start: 257015
       end: 258532
+    pagination: 106b
   38798b2d68234d83800fb314c4d3995a:
     imgnum: 215
     reference: 09240215.tif
     span:
       start: 258537
       end: 259806
+    pagination: 107a
   28585022f4454f85913ba171b32e7572:
     imgnum: 216
     reference: 09240216.tif
     span:
       start: 259811
       end: 261034
+    pagination: 107b
   5b760ab1274a438d859f576bade84f13:
     imgnum: 217
     reference: 09240217.tif
     span:
       start: 261039
       end: 262225
+    pagination: 108a
   16f40d22122c47f6a8ca9f53d4ea940e:
     imgnum: 218
     reference: 09240218.tif
     span:
       start: 262230
       end: 263289
+    pagination: 108b
   2311042728a54278b7a954bb01659cb5:
     imgnum: 219
     reference: 09240219.tif
     span:
       start: 263294
       end: 264381
+    pagination: 109a
   1dd06a536dc143fda40e5cd8aee59799:
     imgnum: 220
     reference: 09240220.tif
     span:
       start: 264386
       end: 265386
+    pagination: 109b
   e157cbd7e3d945e4b83d46f4f0658c20:
     imgnum: 221
     reference: 09240221.tif
     span:
       start: 265391
       end: 266605
+    pagination: 110a
   974546b791864039ae032912f9f9c852:
     imgnum: 222
     reference: 09240222.tif
     span:
       start: 266610
       end: 267901
+    pagination: 110b
   8852771b5ae149b8bbe0fb79d871b1dd:
     imgnum: 223
     reference: 09240223.tif
     span:
       start: 267906
       end: 268913
+    pagination: 111a
   9cae9a8261ec44afa52c5e24873b5b61:
     imgnum: 224
     reference: 09240224.tif
     span:
       start: 268918
       end: 269251
+    pagination: 111b
   eda5f82a229444819863881eeac40f5d:
     imgnum: 225
     reference: 09240225.tif
     span:
       start: 269256
       end: 270447
+    pagination: 112a
   537b697d7f964ab9a15fece7785016ac:
     imgnum: 226
     reference: 09240226.tif
     span:
       start: 270452
       end: 271803
+    pagination: 112b
   c44479195c954ffc94b9108bfe7675db:
     imgnum: 227
     reference: 09240227.tif
     span:
       start: 271808
       end: 273022
+    pagination: 113a
   a0355416bf9441789df09d23eae03779:
     imgnum: 228
     reference: 09240228.tif
     span:
       start: 273027
       end: 273489
+    pagination: 113b
   82e6627a788240a598d2a3028ec3acea:
     imgnum: 229
     reference: 09240229.tif
     span:
       start: 273494
       end: 274719
+    pagination: 114a
   9dabd93dd9ae45f09a55de1919614d45:
     imgnum: 230
     reference: 09240230.tif
     span:
       start: 274724
       end: 275798
+    pagination: 114b
   67be4727378d4bafb9c4da4833c17f59:
     imgnum: 231
     reference: 09240231.tif
     span:
       start: 275803
       end: 276991
+    pagination: 115a
   8c2f8071c75c4a5f96c0e1e5c8c89256:
     imgnum: 232
     reference: 09240232.tif
     span:
       start: 276996
       end: 278142
+    pagination: 115b
   4cbac0747b9b48fdb0c8b1cc5a97833c:
     imgnum: 233
     reference: 09240233.tif
     span:
       start: 278147
       end: 279408
+    pagination: 116a
   93a6a4b37da24098809cc8a642e67288:
     imgnum: 234
     reference: 09240234.tif
     span:
       start: 279413
       end: 280365
+    pagination: 116b
   5957a65f202d43abaf5c7db181d5a09b:
     imgnum: 235
     reference: 09240235.tif
     span:
       start: 280370
       end: 281760
+    pagination: 117a
   fa95bc158163405e95c34aa64d393809:
     imgnum: 236
     reference: 09240236.tif
     span:
       start: 281765
       end: 283036
+    pagination: 117b
   aa3e50035c18419fb1fa98fa00ec82f2:
     imgnum: 237
     reference: 09240237.tif
     span:
       start: 283041
       end: 284248
+    pagination: 118a
   59eaad71e7d64f9a8ea44593ee2a2620:
     imgnum: 238
     reference: 09240238.tif
     span:
       start: 284253
       end: 285413
+    pagination: 118b
   edce8c6ebe434299bec6dd10e3c904a5:
     imgnum: 239
     reference: 09240239.tif
     span:
       start: 285418
       end: 286700
+    pagination: 119a
   16af46b4bcf04669bbe53b614d679ca4:
     imgnum: 240
     reference: 09240240.tif
     span:
       start: 286705
       end: 287955
+    pagination: 119b
   01b2e47364824af9bcbc49116003c3df:
     imgnum: 241
     reference: 09240241.tif
     span:
       start: 287960
       end: 289266
+    pagination: 120a
   3c8e8376eba64303a6b5215cc59e7f11:
     imgnum: 242
     reference: 09240242.tif
     span:
       start: 289271
       end: 290396
+    pagination: 120b
   a584cfab4d66401ab1536744bd7becc2:
     imgnum: 243
     reference: 09240243.tif
     span:
       start: 290401
       end: 291713
+    pagination: 121a
   9fbd4add97ea49a7a771c0dc6fabde32:
     imgnum: 244
     reference: 09240244.tif
     span:
       start: 291718
       end: 292710
+    pagination: 121b
   651c62d2b7984bd4b6f79cc599d9e63c:
     imgnum: 245
     reference: 09240245.tif
     span:
       start: 292715
       end: 293882
+    pagination: 122a
   6d27dfee1ff34392a1f052a9e6d4cf2a:
     imgnum: 246
     reference: 09240246.tif
     span:
       start: 293887
       end: 294831
+    pagination: 122b
   e49439a14bf2484990efe08bf0b496d1:
     imgnum: 247
     reference: 09240247.tif
     span:
       start: 294836
       end: 295716
+    pagination: 123a
   e05593d6d3b840ce9c9788a7ec07a3cb:
     imgnum: 248
     reference: 09240248.tif
     span:
       start: 295721
       end: 296443
+    pagination: 123b
   ff52567fdcb741498c498e105d601de2:
     imgnum: 249
     reference: 09240249.tif
     span:
       start: 296448
       end: 297639
+    pagination: 124a
   8ddf7dc400b944b29d797df417c2b995:
     imgnum: 250
     reference: 09240250.tif
     span:
       start: 297644
       end: 298536
+    pagination: 124b
   20aec350ceac4c0ea479381b5fb0b382:
     imgnum: 251
     reference: 09240251.tif
     span:
       start: 298541
       end: 299583
+    pagination: 125a
   4df6c85af81a4cc681efc83ce9a0c8c7:
     imgnum: 252
     reference: 09240252.tif
     span:
       start: 299588
       end: 300822
+    pagination: 125b
   a0acb2eda23d4a9fa1fc5bd41486d25d:
     imgnum: 253
     reference: 09240253.tif
     span:
       start: 300827
       end: 302123
+    pagination: 126a
   dd31f2ced65943e1b210c9273bcc2a42:
     imgnum: 254
     reference: 09240254.tif
     span:
       start: 302128
       end: 302681
+    pagination: 126b
   f5bf04b56306424d9c5cf5ddb2f76931:
     imgnum: 255
     reference: 09240255.tif
     span:
       start: 302686
       end: 304079
+    pagination: 127a
   ff876d44c2764abcb64d71099c0169e7:
     imgnum: 256
     reference: 09240256.tif
     span:
       start: 304084
       end: 305013
+    pagination: 127b
   e5ec232a0dcb47d192e6abbe8d9def51:
     imgnum: 257
     reference: 09240257.tif
     span:
       start: 305018
       end: 306097
+    pagination: 128a
   b17bc398dd194c1c851466b5384e14a3:
     imgnum: 258
     reference: 09240258.tif
     span:
       start: 306102
       end: 306893
+    pagination: 128b
   48e16e03ca5e48b6b0d83cb3302f78f6:
     imgnum: 259
     reference: 09240259.tif
     span:
       start: 306898
       end: 308196
+    pagination: 129a
   8b4af8c2565541b49cb239e3e2c1c305:
     imgnum: 260
     reference: 09240260.tif
     span:
       start: 308201
       end: 309020
+    pagination: 129b
   15887d4a1b754365b3589cf7661d0b78:
     imgnum: 261
     reference: 09240261.tif
     span:
       start: 309025
       end: 310147
+    pagination: 130a
   04940fbf18584e6f83cfa1c7fe702284:
     imgnum: 262
     reference: 09240262.tif
     span:
       start: 310152
       end: 311518
+    pagination: 130b
   edc08bf6706044ac97cd0afaddcb8046:
     imgnum: 263
     reference: 09240263.tif
     span:
       start: 311523
       end: 312457
+    pagination: 131a
   2cc67566f5244b71aec7343e1652566a:
     imgnum: 264
     reference: 09240264.tif
     span:
       start: 312462
       end: 313706
+    pagination: 131b
   c68412f9c01140c383cf6cead641d036:
     imgnum: 265
     reference: 09240265.tif
     span:
       start: 313711
       end: 314944
+    pagination: 132a
   6357957b52d04470870b219bd6600e38:
     imgnum: 266
     reference: 09240266.tif
     span:
       start: 314949
       end: 316246
+    pagination: 132b
   4ff0625c38ac409d915d6a6810ab9ada:
     imgnum: 267
     reference: 09240267.tif
     span:
       start: 316251
       end: 317571
+    pagination: 133a
   ad9f59381b9b49fdb5fcba992c126a4a:
     imgnum: 268
     reference: 09240268.tif
     span:
       start: 317576
       end: 318887
+    pagination: 133b
   5abb0bccd9fb42ce924818dd7bab9c89:
     imgnum: 269
     reference: 09240269.tif
     span:
       start: 318892
       end: 319768
+    pagination: 134a
   f56906ae6bf9428f9fecbcb8f0967320:
     imgnum: 270
     reference: 09240270.tif
     span:
       start: 319773
       end: 321157
+    pagination: 134b
   d1d5dadbbdc549888ecc3ddb68161f0e:
     imgnum: 271
     reference: 09240271.tif
     span:
       start: 321162
       end: 322080
+    pagination: 135a
   c932dacd480f4c78b17323ac38b224cf:
     imgnum: 272
     reference: 09240272.tif
     span:
       start: 322085
       end: 323167
+    pagination: 135b
   c6581ab9e8fd4d7287a95c2a81ac9f39:
     imgnum: 273
     reference: 09240273.tif
     span:
       start: 323172
       end: 324231
+    pagination: 136a
   7518b9d8b40440319c7a96ffab7e3aed:
     imgnum: 274
     reference: 09240274.tif
     span:
       start: 324236
       end: 325177
+    pagination: 136b
   bfca52e189c44c74baad48cf7ad8525f:
     imgnum: 275
     reference: 09240275.tif
     span:
       start: 325182
       end: 326281
+    pagination: 137a
   5bd8630fa86044a48af3befa17fe8671:
     imgnum: 276
     reference: 09240276.tif
     span:
       start: 326286
       end: 327238
+    pagination: 137b
   8207e226b96c4cedb80edac02439da21:
     imgnum: 277
     reference: 09240277.tif
     span:
       start: 327243
       end: 328552
+    pagination: 138a
   dcf2efb4c9e84a17aaf9c1babb98b3a0:
     imgnum: 278
     reference: 09240278.tif
     span:
       start: 328557
       end: 329578
+    pagination: 138b
   412dfaf10994475fb858a72f72a5d49b:
     imgnum: 279
     reference: 09240279.tif
     span:
       start: 329583
       end: 330827
+    pagination: 139a
   edc4a31a00614b6fa64a06cbe17ee73e:
     imgnum: 280
     reference: 09240280.tif
     span:
       start: 330832
       end: 332225
+    pagination: 139b
   bc34e56951784a4c9d6286bc019d22e0:
     imgnum: 281
     reference: 09240281.tif
     span:
       start: 332230
       end: 333361
+    pagination: 140a
   b4cdda8c0a8544afba921a9be0a22505:
     imgnum: 282
     reference: 09240282.tif
     span:
       start: 333366
       end: 334828
+    pagination: 140b
   98b61eab8b0141879702becd2d067a3d:
     imgnum: 283
     reference: 09240283.tif
     span:
       start: 334833
       end: 336176
+    pagination: 141a
   e5a94af2eb6843bfb0070f46850b2504:
     imgnum: 284
     reference: 09240284.tif
     span:
       start: 336181
       end: 336748
+    pagination: 141b
   a30830550fee4607bc2d400ff5c427b9:
     imgnum: 285
     reference: 09240285.tif
     span:
       start: 336753
       end: 338180
+    pagination: 142a
   853821b5e58f4e05b4911e3412c13b41:
     imgnum: 286
     reference: 09240286.tif
     span:
       start: 338185
       end: 338643
+    pagination: 142b
   8e4c3ff94ddd4cd4b9c57499f6e1202c:
     imgnum: 287
     reference: 09240287.tif
     span:
       start: 338648
       end: 339749
+    pagination: 143a
   fb2578a2c0a64e9daad39bb6e74d1fde:
     imgnum: 288
     reference: 09240288.tif
     span:
       start: 339754
       end: 340886
+    pagination: 143b
   6be3cb65814349d18b5a230ce9a9b5df:
     imgnum: 289
     reference: 09240289.tif
     span:
       start: 340891
       end: 341892
+    pagination: 144a
   6e6afc9cca464927955eb4b7fe47e5cc:
     imgnum: 290
     reference: 09240290.tif
     span:
       start: 341897
       end: 342293
+    pagination: 144b
   c91b4bc1fbbf47169b6b11e7e2a2e918:
     imgnum: 291
     reference: 09240291.tif
     span:
       start: 342298
       end: 343383
+    pagination: 145a
   265d1a0104e74baca7df18dea2ba51c5:
     imgnum: 292
     reference: 09240292.tif
     span:
       start: 343388
       end: 343758
+    pagination: 145b
   0cda5d420a7d46b88f25c7b56378e92c:
     imgnum: 293
     reference: 09240293.tif
     span:
       start: 343763
       end: 344561
+    pagination: 146a
   f6befd2c40194b8f8aa7ab733d42d8a5:
     imgnum: 294
     reference: 09240294.tif
     span:
       start: 344566
       end: 345609
+    pagination: 146b
   d166d5c9d5e24769a1e8c39e8ff02685:
     imgnum: 295
     reference: 09240295.tif
     span:
       start: 345614
       end: 346629
+    pagination: 147a
   60d6af1542454e8c859e4cbe1179a4ac:
     imgnum: 296
     reference: 09240296.tif
     span:
       start: 346634
       end: 347678
+    pagination: 147b
   c2186ef5fddd4789b132049e13b3d655:
     imgnum: 297
     reference: 09240297.tif
     span:
       start: 347683
       end: 348672
+    pagination: 148a
   f92638f2a72c4d9da4876d6c33354bc2:
     imgnum: 298
     reference: 09240298.tif
     span:
       start: 348677
       end: 349463
+    pagination: 148b
   498908ad977344a5bd94baffef376928:
     imgnum: 299
     reference: 09240299.tif
     span:
       start: 349468
       end: 350731
+    pagination: 149a
   cd8842f6a67f4fcbb268e83960c7e721:
     imgnum: 300
     reference: 09240300.tif
     span:
       start: 350736
       end: 351962
+    pagination: 149b
   f31f7ddbe1f94bc9858f52c07543451b:
     imgnum: 301
     reference: 09240301.tif
     span:
       start: 351967
       end: 353154
+    pagination: 150a
   587276666d674fbfa3691985facb068e:
     imgnum: 302
     reference: 09240302.tif
     span:
       start: 353159
       end: 354150
+    pagination: 150b
   283a53eaa4e246b1a1ed0372d101d66c:
     imgnum: 303
     reference: 09240303.tif
     span:
       start: 354155
       end: 355121
+    pagination: 151a
   06b48bf24cc143038214b6c68f8b3f41:
     imgnum: 304
     reference: 09240304.tif
     span:
       start: 355126
       end: 356338
+    pagination: 151b
   2d93bf3c2fe14bc2adb993ad38b566d2:
     imgnum: 305
     reference: 09240305.tif
     span:
       start: 356343
       end: 357506
+    pagination: 152a
   502ecf5b49034e0da1388778809b4187:
     imgnum: 306
     reference: 09240306.tif
     span:
       start: 357511
       end: 358583
+    pagination: 152b
   a25c8151c16f41e9b53eecea0c8cad9b:
     imgnum: 307
     reference: 09240307.tif
     span:
       start: 358588
       end: 359902
+    pagination: 153a
   43696ccd70bc4bcf810cac441ba3bc99:
     imgnum: 308
     reference: 09240308.tif
     span:
       start: 359907
       end: 361381
+    pagination: 153b
   e8498215eecb459b96dea606de43b824:
     imgnum: 309
     reference: 09240309.tif
     span:
       start: 361386
       end: 362606
+    pagination: 154a
   b6df1fe6c64e4ead9e6cd9e93090cb81:
     imgnum: 310
     reference: 09240310.tif
     span:
       start: 362611
       end: 363362
+    pagination: 154b
   8de871597d6c44cea03090d5e3d6f0be:
     imgnum: 311
     reference: 09240311.tif
     span:
       start: 363367
       end: 364627
+    pagination: 155a
   51c53490f5344b25b8c5bb2f162a0e94:
     imgnum: 312
     reference: 09240312.tif
     span:
       start: 364632
       end: 365637
+    pagination: 155b
   2fcf10bf1e824c808b852b9c7713dc39:
     imgnum: 313
     reference: 09240313.tif
     span:
       start: 365642
       end: 366882
+    pagination: 156a
   345e5b58b28b459f9fbc2ca364030135:
     imgnum: 314
     reference: 09240314.tif
     span:
       start: 366887
       end: 368249
+    pagination: 156b
   17ec74147db84bfea0185b369d9c0316:
     imgnum: 315
     reference: 09240315.tif
     span:
       start: 368254
       end: 369300
+    pagination: 157a
   5f4a87f060c54a9ea64a387104d9846a:
     imgnum: 316
     reference: 09240316.tif
     span:
       start: 369305
       end: 370265
+    pagination: 157b
   2fd5eb41cb73428282f193419f192fe5:
     imgnum: 317
     reference: 09240317.tif
     span:
       start: 370270
       end: 371661
+    pagination: 158a
   9739f08e534d473483d52a63b093e054:
     imgnum: 318
     reference: 09240318.tif
     span:
       start: 371666
       end: 372799
+    pagination: 158b
   8bde760b00bb471295203ecf0d0e4ca8:
     imgnum: 319
     reference: 09240319.tif
     span:
       start: 372804
       end: 374143
+    pagination: 159a
   47ed15d0822345b2ac3310583174cdbc:
     imgnum: 320
     reference: 09240320.tif
     span:
       start: 374148
       end: 375216
+    pagination: 159b
   aefec3b3fdbf4bc78605317fc0ed4e33:
     imgnum: 321
     reference: 09240321.tif
     span:
       start: 375221
       end: 376360
+    pagination: 160a
   4664b0f21f2147a2adcc86c13db1845e:
     imgnum: 322
     reference: 09240322.tif
     span:
       start: 376365
       end: 377451
+    pagination: 160b
   d1f990b2024e4d7ea0babf6c650119e4:
     imgnum: 323
     reference: 09240323.tif
     span:
       start: 377456
       end: 378679
+    pagination: 161a
   93b9f1bbbd464836b3d1ae08926bff61:
     imgnum: 324
     reference: 09240324.tif
     span:
       start: 378684
       end: 379528
+    pagination: 161b
   0d3a4f5d81bb4c33a8ae66da35d90ae0:
     imgnum: 325
     reference: 09240325.tif
     span:
       start: 379533
       end: 380725
+    pagination: 162a
   3a921820aadd495ca41c214aae13d141:
     imgnum: 326
     reference: 09240326.tif
     span:
       start: 380730
       end: 381564
+    pagination: 162b
   29027f0fe55c49159d791a76953fe208:
     imgnum: 327
     reference: 09240327.tif
     span:
       start: 381569
       end: 382722
+    pagination: 163a
   cd09a01a775c458eb50c53add9b81bbb:
     imgnum: 328
     reference: 09240328.tif
     span:
       start: 382727
       end: 383734
+    pagination: 163b
   08648bf6a9374d909eee089b43bb081f:
     imgnum: 329
     reference: 09240329.tif
     span:
       start: 383739
       end: 384959
+    pagination: 164a
   7a2a978485e94725a46aa80549fdb7f1:
     imgnum: 330
     reference: 09240330.tif
     span:
       start: 384964
       end: 386227
+    pagination: 164b
   0eb0557c5743476dbff4fdd476fc7df7:
     imgnum: 331
     reference: 09240331.tif
     span:
       start: 386232
       end: 387462
+    pagination: 165a
   b71df71b02824fb092dc4405c068b141:
     imgnum: 332
     reference: 09240332.tif
     span:
       start: 387467
       end: 388486
+    pagination: 165b
   7ed987909e0e4d19a4073f915ac11095:
     imgnum: 333
     reference: 09240333.tif
     span:
       start: 388491
       end: 389738
+    pagination: 166a
   91b5258fe72043908e7513317e584aad:
     imgnum: 334
     reference: 09240334.tif
     span:
       start: 389743
       end: 390287
+    pagination: 166b
   6bc1f8efcbf44eb08e18bf5af9c2fe5e:
     imgnum: 335
     reference: 09240335.tif
     span:
       start: 390292
       end: 391330
+    pagination: 167a
   06f3bc5b5cc64150947b93024ea54efb:
     imgnum: 336
     reference: 09240336.tif
     span:
       start: 391335
       end: 392045
+    pagination: 167b
   395e9207d71e436db77d07491d4bfed9:
     imgnum: 337
     reference: 09240337.tif
     span:
       start: 392050
       end: 392872
+    pagination: 168a
   df97eacc4a22433480216642fec6bcf0:
     imgnum: 338
     reference: 09240338.tif
     span:
       start: 392877
       end: 394009
+    pagination: 168b
   9b5adafa22d7495a956fa89b460e94db:
     imgnum: 339
     reference: 09240339.tif
     span:
       start: 394014
       end: 395221
+    pagination: 169a
   46eda86589ef41ffbd35766f0088440f:
     imgnum: 340
     reference: 09240340.tif
     span:
       start: 395226
       end: 396526
+    pagination: 169b
   8dabdbfc61a24b458d360ee2eec2bb7e:
     imgnum: 341
     reference: 09240341.tif
     span:
       start: 396531
       end: 397598
+    pagination: 170a
   42beff85f9e84956afe9c659d770440e:
     imgnum: 342
     reference: 09240342.tif
     span:
       start: 397603
       end: 398776
+    pagination: 170b
   65c8b342acbe480da0e23d9f8d08205e:
     imgnum: 343
     reference: 09240343.tif
     span:
       start: 398781
       end: 399808
+    pagination: 171a
   5e4d7af6bc5145f590d4595fe1087699:
     imgnum: 344
     reference: 09240344.tif
     span:
       start: 399813
       end: 400888
+    pagination: 171b
   24b7d83f87af4c5e842998ea7b2ac9da:
     imgnum: 345
     reference: 09240345.tif
     span:
       start: 400893
       end: 401924
+    pagination: 172a
   740141b7b7464e53841c4a2a6a4af949:
     imgnum: 346
     reference: 09240346.tif
     span:
       start: 401929
       end: 402417
+    pagination: 172b
   6a0dbb573fbe41ca8366e70ca89186f4:
     imgnum: 347
     reference: 09240347.tif
     span:
       start: 402422
       end: 403115
+    pagination: 173a
   39f5d906c7074ff6901cbf651bb05337:
     imgnum: 348
     reference: 09240348.tif
     span:
       start: 403120
       end: 404275
+    pagination: 173b
   f6d5f56adc6e41fea645e1273b2bf247:
     imgnum: 349
     reference: 09240349.tif
     span:
       start: 404280
       end: 405503
+    pagination: 174a
   d3dfb20313044eb2b9e8882de6f97890:
     imgnum: 350
     reference: 09240350.tif
     span:
       start: 405508
       end: 406707
+    pagination: 174b
   9026e57c398742db824037111be3d499:
     imgnum: 351
     reference: 09240351.tif
     span:
       start: 406712
       end: 407770
+    pagination: 175a
   6d2c54e833ca4bcaa047a33f6db1517a:
     imgnum: 352
     reference: 09240352.tif
     span:
       start: 407775
       end: 408866
+    pagination: 175b
   1098970de9844897b507b84e6b3bbf96:
     imgnum: 353
     reference: 09240353.tif
     span:
       start: 408871
       end: 409831
+    pagination: 176a
   d236c95131784738bfb13b1ae048b1ca:
     imgnum: 354
     reference: 09240354.tif
     span:
       start: 409836
       end: 410538
+    pagination: 176b
   ebd334f64cec4ca39e359f14ad90d6d1:
     imgnum: 355
     reference: 09240355.tif
     span:
       start: 410543
       end: 411855
+    pagination: 177a
   9aee5c6f570f442cba5b4d10f403b7b6:
     imgnum: 356
     reference: 09240356.tif
     span:
       start: 411860
       end: 413116
+    pagination: 177b
   aca00ceffee448008724264016ee53d4:
     imgnum: 357
     reference: 09240357.tif
     span:
       start: 413121
       end: 414110
+    pagination: 178a
   3338ce12e703439b8145729aeffa0cc3:
     imgnum: 358
     reference: 09240358.tif
     span:
       start: 414115
       end: 415214
+    pagination: 178b
   8a95cb314f044f579617c4a0e40103a9:
     imgnum: 359
     reference: 09240359.tif
     span:
       start: 415219
       end: 416224
+    pagination: 179a
   7d95d27616ae4ae5a6e53f4742dbd037:
     imgnum: 360
     reference: 09240360.tif
     span:
       start: 416229
       end: 417651
+    pagination: 179b
   73d1c09b14574dfc8ee9b94253efc1c5:
     imgnum: 361
     reference: 09240361.tif
     span:
       start: 417656
       end: 419030
+    pagination: 180a
   ac039c6bfa854ebd84c4e96fe658f572:
     imgnum: 362
     reference: 09240362.tif
     span:
       start: 419035
       end: 419509
+    pagination: 180b
   ce89eab5d2bb4501ab6536c7a8a44e85:
     imgnum: 363
     reference: 09240363.tif
     span:
       start: 419514
       end: 420713
+    pagination: 181a
   88dc8fef88a2407d913eba84a6681fe1:
     imgnum: 364
     reference: 09240364.tif
     span:
       start: 420718
       end: 421904
+    pagination: 181b
   de179f3ce3f74f9d9aa0fed1b68cae3a:
     imgnum: 365
     reference: 09240365.tif
     span:
       start: 421909
       end: 423158
+    pagination: 182a
   f5b0473a00aa4a778d07d018922ca8cf:
     imgnum: 366
     reference: 09240366.tif
     span:
       start: 423163
       end: 424378
+    pagination: 182b
   1a4791be4669464fa44913c3ec4fc69e:
     imgnum: 367
     reference: 09240367.tif
     span:
       start: 424383
       end: 425641
+    pagination: 183a
   e9a89e02d92d45e284f4e47667abd591:
     imgnum: 368
     reference: 09240368.tif
     span:
       start: 425646
       end: 426698
+    pagination: 183b
   d38c227612e2444fa553ba623386b390:
     imgnum: 369
     reference: 09240369.tif
     span:
       start: 426703
       end: 428019
+    pagination: 184a
   5387f0ed456e4919a916ef84c56f604b:
     imgnum: 370
     reference: 09240370.tif
     span:
       start: 428024
       end: 429153
+    pagination: 184b
   86f1209fa807436fa4e9c85047297474:
     imgnum: 371
     reference: 09240371.tif
     span:
       start: 429158
       end: 430308
+    pagination: 185a
   74d13bb5e4494d0d8bf26ef7d586606a:
     imgnum: 372
     reference: 09240372.tif
     span:
       start: 430313
       end: 431313
+    pagination: 185b
   39fb1d27ddc1454d8889a3a40111ad52:
     imgnum: 373
     reference: 09240373.tif
     span:
       start: 431318
       end: 432283
+    pagination: 186a
   e5c79faddf754bc6927558be8ce17126:
     imgnum: 374
     reference: 09240374.tif
     span:
       start: 432288
       end: 433495
+    pagination: 186b
   24cf9258032f48379574e359c6e96432:
     imgnum: 375
     reference: 09240375.tif
     span:
       start: 433500
       end: 434804
+    pagination: 187a
   e3ef7627bc1c4c0282768e7a86fb4161:
     imgnum: 376
     reference: 09240376.tif
     span:
       start: 434809
       end: 435987
+    pagination: 187b
   1bc6eea4e2324f0c9dec4353fc288727:
     imgnum: 377
     reference: 09240377.tif
     span:
       start: 435992
       end: 437393
+    pagination: 188a
   a045511d778f471b807bef3181fd6eef:
     imgnum: 378
     reference: 09240378.tif
     span:
       start: 437398
       end: 438746
+    pagination: 188b
   c200374f7d1c4a7393325e0516b915be:
     imgnum: 379
     reference: 09240379.tif
     span:
       start: 438751
       end: 440004
+    pagination: 189a
   419c468ec1c5460fa25a0bf57cf6e3c4:
     imgnum: 380
     reference: 09240380.tif
     span:
       start: 440009
       end: 441177
+    pagination: 189b
   18b6bdc0c3d341aab05233f40dae23bf:
     imgnum: 381
     reference: 09240381.tif
     span:
       start: 441182
       end: 441632
+    pagination: 190a
   ba2a4b53c89045759a95c5a959fc4890:
     imgnum: 382
     reference: 09240382.tif
     span:
       start: 441637
       end: 443023
+    pagination: 190b
   1845b6a7fa8948a1bec54c73463d5e0d:
     imgnum: 383
     reference: 09240383.tif
     span:
       start: 443028
       end: 444357
+    pagination: 191a
   6714a80fbbc24324bddef903e61655a9:
     imgnum: 384
     reference: 09240384.tif
     span:
       start: 444362
       end: 445482
+    pagination: 191b
   5aa59a417d604bdabcc67f7ed542d64b:
     imgnum: 385
     reference: 09240385.tif
     span:
       start: 445487
       end: 446926
+    pagination: 192a
   82a0d2e95b1944bd9ae000d523448127:
     imgnum: 386
     reference: 09240386.tif
     span:
       start: 446931
       end: 448310
+    pagination: 192b
   b3a6730376c241c79cc369185cca5fc1:
     imgnum: 387
     reference: 09240387.tif
     span:
       start: 448315
       end: 449701
+    pagination: 193a
   4ecb4737091f4d8dbdf713739a6d4f80:
     imgnum: 388
     reference: 09240388.tif
     span:
       start: 449706
       end: 450897
+    pagination: 193b
   914291080f2f4cacab2f6c8556ddea82:
     imgnum: 389
     reference: 09240389.tif
     span:
       start: 450902
       end: 452246
+    pagination: 194a
   d4c1e993d4d44577b8dc18e17513da9e:
     imgnum: 390
     reference: 09240390.tif
     span:
       start: 452251
       end: 453636
+    pagination: 194b
   370426bfe0af4abdbf2f3af5c82a0e2d:
     imgnum: 391
     reference: 09240391.tif
     span:
       start: 453641
       end: 455116
+    pagination: 195a
   4cfe1a0c1b424fa19b2d5c79528f6f0a:
     imgnum: 392
     reference: 09240392.tif
     span:
       start: 455121
       end: 456385
+    pagination: 195b
   992d46f497c74ea2ade27e499ab722bf:
     imgnum: 393
     reference: 09240393.tif
     span:
       start: 456390
       end: 457577
+    pagination: 196a
   f1d06f1bcb744179ba3b1d0031af9f84:
     imgnum: 394
     reference: 09240394.tif
     span:
       start: 457582
       end: 458184
+    pagination: 196b
   5111b3c76dfd4545bf88a67e469aac3b:
     imgnum: 395
     reference: 09240395.tif
     span:
       start: 458189
       end: 459374
+    pagination: 197a
   d50fc820f87145fa827e8b93e5f012a2:
     imgnum: 396
     reference: 09240396.tif
     span:
       start: 459379
       end: 460346
+    pagination: 197b
   5f91ea530b064d6092c4b3a84022c1cd:
     imgnum: 397
     reference: 09240397.tif
     span:
       start: 460351
       end: 461744
+    pagination: 198a
   12faec26fb4146b6a9c813cf72fd741f:
     imgnum: 398
     reference: 09240398.tif
     span:
       start: 461749
       end: 462955
+    pagination: 198b
   e365d78f310f47b1bb9c438a560d1ad2:
     imgnum: 399
     reference: 09240399.tif
     span:
       start: 462960
       end: 464358
+    pagination: 199a
   002f7cad5aac4ce1bce511712f15b95d:
     imgnum: 400
     reference: 09240400.tif
     span:
       start: 464363
       end: 465656
+    pagination: 199b
   c541411cac2543baa97fdc137b484df3:
     imgnum: 401
     reference: 09240401.tif
     span:
       start: 465661
       end: 466889
+    pagination: 200a
   8f4fa78c585a4a90af55a28125d11e28:
     imgnum: 402
     reference: 09240402.tif
     span:
       start: 466894
       end: 468036
+    pagination: 200b
   91e18f62398540669a62f762e8f78df7:
     imgnum: 403
     reference: 09240403.tif
     span:
       start: 468041
       end: 468974
+    pagination: 201a
   69a4614ae4e542bbb41f7dfe1c66dbc5:
     imgnum: 404
     reference: 09240404.tif
     span:
       start: 468979
       end: 469836
+    pagination: 201b
   dc259b844a6e41ba81317bc2dfb4ccc0:
     imgnum: 405
     reference: 09240405.tif
     span:
       start: 469841
       end: 471196
+    pagination: 202a
   1567a88fd3584aba8143fae31bebe15e:
     imgnum: 406
     reference: 09240406.tif
     span:
       start: 471201
       end: 471721
+    pagination: 202b
   0131673d1a134207858138dad9b24568:
     imgnum: 407
     reference: 09240407.tif
     span:
       start: 471726
       end: 473006
+    pagination: 203a
   fad15544961b4d988dfae10983adc725:
     imgnum: 408
     reference: 09240408.tif
     span:
       start: 473011
       end: 474242
+    pagination: 203b
   f3279e470a074d72a9b0a25539316d9f:
     imgnum: 409
     reference: 09240409.tif
     span:
       start: 474247
       end: 475328
+    pagination: 204a
   a2008b37de8f48ca856325ca432cd7bf:
     imgnum: 410
     reference: 09240410.tif
     span:
       start: 475333
       end: 475706
+    pagination: 204b
   bdec58c577f642c3a76e7670d083443a:
     imgnum: 411
     reference: 09240411.tif
     span:
       start: 475711
       end: 476942
+    pagination: 205a
   fddbb42d95f643039c093313ddf6d601:
     imgnum: 412
     reference: 09240412.tif
     span:
       start: 476947
       end: 478032
+    pagination: 205b
   ddbfcc82e156497cbd8f8e1ca46aa581:
     imgnum: 413
     reference: 09240413.tif
     span:
       start: 478037
       end: 479108
+    pagination: 206a
   37cf06005b3f4fa9a7b5d71cd0c4d98f:
     imgnum: 414
     reference: 09240414.tif
     span:
       start: 479113
       end: 479625
+    pagination: 206b
   afe8b523d6a641ada64e62bf0cd5a72a:
     imgnum: 415
     reference: 09240415.tif
     span:
       start: 479630
       end: 480665
+    pagination: 207a
   668f7fe90af640599256708c89f7fff0:
     imgnum: 416
     reference: 09240416.tif
     span:
       start: 480670
       end: 481875
+    pagination: 207b
   6230c3ff72bb422aa2e7fcb1175cce2f:
     imgnum: 417
     reference: 09240417.tif
     span:
       start: 481880
       end: 483107
+    pagination: 208a
   a591afb59b1a4d4a8ae5707b5c14d311:
     imgnum: 418
     reference: 09240418.tif
     span:
       start: 483112
       end: 484560
+    pagination: 208b
   e014e66481c0485b8ef1442df09257ab:
     imgnum: 419
     reference: 09240419.tif
     span:
       start: 484565
       end: 485773
+    pagination: 209a
   a706598a01a84865a869be38f192a96b:
     imgnum: 420
     reference: 09240420.tif
     span:
       start: 485778
       end: 487100
+    pagination: 209b
   de1eb5bba6304da3adaa3063788e9bc0:
     imgnum: 421
     reference: 09240421.tif
     span:
       start: 487105
       end: 488376
+    pagination: 210a
   3fec7cbac16f4dacbe52b52e6d2cd0c8:
     imgnum: 422
     reference: 09240422.tif
     span:
       start: 488381
       end: 489632
+    pagination: 210b
   7bc131af44474eb693a8708c8f00924b:
     imgnum: 423
     reference: 09240423.tif
     span:
       start: 489637
       end: 490860
+    pagination: 211a
   a73a3f0f72f74348830b181d6447f235:
     imgnum: 424
     reference: 09240424.tif
     span:
       start: 490865
       end: 491985
+    pagination: 211b
   d24aaf44d776402dbd0252ca344dd5c8:
     imgnum: 425
     reference: 09240425.tif
     span:
       start: 491990
       end: 492807
+    pagination: 212a
   d4e3ec2e0da54c7389260604cf07e899:
     imgnum: 426
     reference: 09240426.tif
     span:
       start: 492812
       end: 493747
+    pagination: 212b
   8a54075373f841cb82e8bbbad8c9cd16:
     imgnum: 427
     reference: 09240427.tif
     span:
       start: 493752
       end: 494858
+    pagination: 213a
   7c667b08ef8e466495acd8d9ba0c3215:
     imgnum: 428
     reference: 09240428.tif
     span:
       start: 494863
       end: 496181
+    pagination: 213b
   47131d13d9aa47eb86793b5283a87029:
     imgnum: 429
     reference: 09240429.tif
     span:
       start: 496186
       end: 497103
+    pagination: 214a
   48032af665984e86bcdf874f7eaaab34:
     imgnum: 430
     reference: 09240430.tif
     span:
       start: 497108
       end: 498273
+    pagination: 214b
   f82f01c0600e4608b794fb6f8251894b:
     imgnum: 431
     reference: 09240431.tif
     span:
       start: 498278
       end: 499017
+    pagination: 215a
   3524a7c521d74750a83f44e200be8a0d:
     imgnum: 432
     reference: 09240432.tif
     span:
       start: 499022
       end: 499808
+    pagination: 215b
   f2c63019a8a14d34ba00d3c72e72e18f:
     imgnum: 433
     reference: 09240433.tif
     span:
       start: 499813
       end: 500591
+    pagination: 216a
   03c5a76e08394e04af3fc5d48d148452:
     imgnum: 434
     reference: 09240434.tif
     span:
       start: 500596
       end: 501012
+    pagination: 216b
   15583745bd2e4ae38b1d2ba1977f869a:
     imgnum: 435
     reference: 09240435.tif
     span:
       start: 501017
       end: 501775
+    pagination: 217a
   842ed0749fd4451387af2da7b70dd7ed:
     imgnum: 436
     reference: 09240436.tif
     span:
       start: 501780
       end: 502366
+    pagination: 217b
   3f0968a5065b4ee5a1851a7950db87ca:
     imgnum: 437
     reference: 09240437.tif
     span:
       start: 502371
       end: 503736
+    pagination: 218a
   48896397744e44c9b9632e177f155dda:
     imgnum: 438
     reference: 09240438.tif
     span:
       start: 503741
       end: 504869
+    pagination: 218b
   d4c5575546a54b85a505ed817650227a:
     imgnum: 439
     reference: 09240439.tif
     span:
       start: 504874
       end: 506289
+    pagination: 219a
   0761e9a3717c453c8a7a531261380928:
     imgnum: 440
     reference: 09240440.tif
     span:
       start: 506294
       end: 506609
+    pagination: 219b
   daa7f130e441471189a92bb2aa234112:
     imgnum: 441
     reference: 09240441.tif
     span:
       start: 506614
       end: 507913
+    pagination: 220a
   09662ee589b340ff8dc1998d07ebc1b8:
     imgnum: 442
     reference: 09240442.tif
     span:
       start: 507918
       end: 508915
+    pagination: 220b
   ed211dd31279442789e46981558bbb3c:
     imgnum: 443
     reference: 09240443.tif
     span:
       start: 508920
       end: 509944
+    pagination: 221a
   fe83fb961f10455bba64ae4fbd8e76eb:
     imgnum: 444
     reference: 09240444.tif
     span:
       start: 509949
       end: 511357
+    pagination: 221b
   a6fad42a8c1b4845bda361fe231442e2:
     imgnum: 445
     reference: 09240445.tif
     span:
       start: 511362
       end: 512264
+    pagination: 222a
   8f14dd092590442cb227004dbb4c13d2:
     imgnum: 446
     reference: 09240446.tif
     span:
       start: 512269
       end: 513455
+    pagination: 222b
   67abbae3563947189678c3557931dca6:
     imgnum: 447
     reference: 09240447.tif
     span:
       start: 513460
       end: 514690
+    pagination: 223a
   0e4ebfc6a0c8415ba5a0dc2ad9abb1b4:
     imgnum: 448
     reference: 09240448.tif
     span:
       start: 514695
       end: 515641
+    pagination: 223b
   44bc65085a304c6dbae3be53ec507274:
     imgnum: 449
     reference: 09240449.tif
     span:
       start: 515646
       end: 516933
+    pagination: 224a
   70bb884c0f3648e0a5132e16c2bede4e:
     imgnum: 450
     reference: 09240450.tif
     span:
       start: 516938
       end: 518145
+    pagination: 224b
   7f435c69515344c7af95a41641f6e2a0:
     imgnum: 451
     reference: 09240451.tif
     span:
       start: 518150
       end: 518808
+    pagination: 225a
   f589f9bc76c74daaa0684c9d4cce66b4:
     imgnum: 452
     reference: 09240452.tif
     span:
       start: 518813
       end: 519796
+    pagination: 225b
   f41106c5e46643e2a1fb9a7cc13e2809:
     imgnum: 453
     reference: 09240453.tif
     span:
       start: 519801
       end: 520451
+    pagination: 226a
   b05800138c1b43569d9fdac8bc6f7a33:
     imgnum: 454
     reference: 09240454.tif
     span:
       start: 520456
       end: 521528
+    pagination: 226b
   45e8103227ca4177bff704187c92ea9a:
     imgnum: 455
     reference: 09240455.tif
     span:
       start: 521533
       end: 522873
+    pagination: 227a
   39a939a9687b4c1fb19629e07869d85f:
     imgnum: 456
     reference: 09240456.tif
     span:
       start: 522878
       end: 524269
+    pagination: 227b
   4f019d291b1e48c4b5a0975844461c40:
     imgnum: 457
     reference: 09240457.tif
     span:
       start: 524274
       end: 525537
+    pagination: 228a
   6f707dc279d843e88c264112bf1a4cc1:
     imgnum: 458
     reference: 09240458.tif
     span:
       start: 525542
       end: 526630
+    pagination: 228b
   23a898c9969242379ac85ce7855387e2:
     imgnum: 459
     reference: 09240459.tif
     span:
       start: 526635
       end: 526875
+    pagination: 229a
   483b419799b84a93ad63a4289f5abb37:
     imgnum: 460
     reference: 09240460.tif
     span:
       start: 526880
       end: 528076
+    pagination: 229b
   4ffb311ca0df4137ba30944dcac0c706:
     imgnum: 461
     reference: 09240461.tif
     span:
       start: 528081
       end: 529275
+    pagination: 230a
   21bab172a127431fa3d4eeab55477e1f:
     imgnum: 462
     reference: 09240462.tif
     span:
       start: 529280
       end: 530569
+    pagination: 230b
   7d85f08ad6e2424ca6004d1800d2961c:
     imgnum: 463
     reference: 09240463.tif
     span:
       start: 530574
       end: 531953
+    pagination: 231a
   98588b00a9024c919663369ac8d4eccb:
     imgnum: 464
     reference: 09240464.tif
     span:
       start: 531958
       end: 533191
+    pagination: 231b
   a32878120606479a8bac2c6eaed96667:
     imgnum: 465
     reference: 09240465.tif
     span:
       start: 533196
       end: 534596
+    pagination: 232a
   2d8b7d40dd314a0da218d8ffce1a38bc:
     imgnum: 466
     reference: 09240466.tif
     span:
       start: 534601
       end: 535899
+    pagination: 232b
   092248141f554b2892d83d79dffe9145:
     imgnum: 467
     reference: 09240467.tif
     span:
       start: 535904
       end: 537303
+    pagination: 233a
   0727e7d97f514ebc954655f867b999d7:
     imgnum: 468
     reference: 09240468.tif
     span:
       start: 537308
       end: 538656
+    pagination: 233b
   383a34961ea242dab0760f8a4c7cf63a:
     imgnum: 469
     reference: 09240469.tif
     span:
       start: 538661
       end: 539917
+    pagination: 234a
   0a36b5e5dc3f4a93be51d89dafb713e7:
     imgnum: 470
     reference: 09240470.tif
     span:
       start: 539922
       end: 540987
+    pagination: 234b
   b0327a1452964b27bc485f237df7b5d1:
     imgnum: 471
     reference: 09240471.tif
     span:
       start: 540992
       end: 541305
+    pagination: 235a
   248a3fc9513a42bdb67bda5d41fd00eb:
     imgnum: 472
     reference: 09240472.tif
     span:
       start: 541310
       end: 541637
+    pagination: 235b
   f1825e36989d4218adee8814c66f08a1:
     imgnum: 473
     reference: 09240473.tif
     span:
       start: 541642
       end: 542873
+    pagination: 236a
   33a163f148094438888f77d99374a420:
     imgnum: 474
     reference: 09240474.tif
     span:
       start: 542878
       end: 544053
+    pagination: 236b
   4ad2984b811c4feeb88ae077583b868d:
     imgnum: 475
     reference: 09240475.tif
     span:
       start: 544058
       end: 545325
+    pagination: 237a
   8d4ff20428174b2e9ebc109769563411:
     imgnum: 476
     reference: 09240476.tif
     span:
       start: 545330
       end: 546347
+    pagination: 237b
   1d05a8a2adc747239cf753bd5ae7e212:
     imgnum: 477
     reference: 09240477.tif
     span:
       start: 546352
       end: 547580
+    pagination: 238a
   56a1845791d643cd83fb67853e4b8e77:
     imgnum: 478
     reference: 09240478.tif
     span:
       start: 547585
       end: 548697
+    pagination: 238b
   4d8cf4845e8e4a10a0e523c2085e9201:
     imgnum: 479
     reference: 09240479.tif
     span:
       start: 548702
       end: 549831
+    pagination: 239a
   b6a437032a6e468ea04cb6be5e2e36d2:
     imgnum: 480
     reference: 09240480.tif
     span:
       start: 549836
       end: 550888
+    pagination: 239b
   deb7a98ef659429c9708364daaa12141:
     imgnum: 481
     reference: 09240481.tif
     span:
       start: 550893
       end: 552274
+    pagination: 240a
   84f132261a27421a8c6eb16733b2f016:
     imgnum: 482
     reference: 09240482.tif
     span:
       start: 552279
       end: 553517
+    pagination: 240b
   a2a67dabd0344578a769840726149aa0:
     imgnum: 483
     reference: 09240483.tif
     span:
       start: 553522
       end: 554669
+    pagination: 241a
   36f5ffcb4d1045d78e4d6342b8f209d9:
     imgnum: 484
     reference: 09240484.tif
     span:
       start: 554674
       end: 555795
+    pagination: 241b
   1280f24d69fa4b36b329ad9a806664f1:
     imgnum: 485
     reference: 09240485.tif
     span:
       start: 555800
       end: 557006
+    pagination: 242a
   b0d297c0947f4c9d96c8911589db95c0:
     imgnum: 486
     reference: 09240486.tif
     span:
       start: 557011
       end: 558174
+    pagination: 242b
   28bb3e2c2530482b85ba2bde84540202:
     imgnum: 487
     reference: 09240487.tif
     span:
       start: 558179
       end: 559060
+    pagination: 243a
   9da54f5040c441669121a4ab8c134de7:
     imgnum: 488
     reference: 09240488.tif
     span:
       start: 559065
       end: 559198
+    pagination: 243b
   834f5447108d4c6bac9accd3f26dfa03:
     imgnum: 489
     reference: 09240489.tif
     span:
       start: 559203
       end: 560303
+    pagination: 244a
   3dbb9ac9a752428b96d1b06c7cbbe51a:
     imgnum: 490
     reference: 09240490.tif
     span:
       start: 560308
       end: 561682
+    pagination: 244b
   7fc0960e5fd8482ea8bbaa0c9b14f96b:
     imgnum: 491
     reference: 09240491.tif
     span:
       start: 561687
       end: 562854
+    pagination: 245a
   33f27a18594348f4af4f18571e4edc0d:
     imgnum: 492
     reference: 09240492.tif
     span:
       start: 562859
       end: 563915
+    pagination: 245b
   d73f40258693488aa4abaefb65f2273c:
     imgnum: 493
     reference: 09240493.tif
     span:
       start: 563920
       end: 565162
+    pagination: 246a
   0f71da84b82f4a848ebb7acd444ca765:
     imgnum: 494
     reference: 09240494.tif
     span:
       start: 565167
       end: 566353
+    pagination: 246b
   1f966d17a65e4bc38857865e11e25bdb:
     imgnum: 495
     reference: 09240495.tif
     span:
       start: 566358
       end: 567603
+    pagination: 247a
   8ef3620b77b94cdea6a30b769a3006f7:
     imgnum: 496
     reference: 09240496.tif
     span:
       start: 567608
       end: 568877
+    pagination: 247b
   2a30e8094164457ea2cfc23185d9cdd8:
     imgnum: 497
     reference: 09240497.tif
     span:
       start: 568882
       end: 569940
+    pagination: 248a
   d8ed6be88c034b0aa949f489207cb1f3:
     imgnum: 498
     reference: 09240498.tif
     span:
       start: 569945
       end: 571021
+    pagination: 248b
   402bf6a34a28408e849adf2b59fa834c:
     imgnum: 499
     reference: 09240499.tif
     span:
       start: 571026
       end: 572425
+    pagination: 249a
   afb45078154b4fc38dfd81eb85d0fb66:
     imgnum: 500
     reference: 09240500.tif
     span:
       start: 572430
       end: 573519
+    pagination: 249b
   af3fc7497f254a95bb8c798ed801ae37:
     imgnum: 501
     reference: 09240501.tif
     span:
       start: 573524
       end: 574562
+    pagination: 250a
   2a48786252384fdcb7f0a51a6bb7a7c9:
     imgnum: 502
     reference: 09240502.tif
     span:
       start: 574567
       end: 575848
+    pagination: 250b
   f9c78e4d9ba543189a5d95a6b29c51bf:
     imgnum: 503
     reference: 09240503.tif
     span:
       start: 575853
       end: 576966
+    pagination: 251a
   093145fc5b7745f093894ccf1fc919f1:
     imgnum: 504
     reference: 09240504.tif
     span:
       start: 576971
       end: 578299
+    pagination: 251b
   c6ffa0d75659438b8db66579e3ba5644:
     imgnum: 505
     reference: 09240505.tif
     span:
       start: 578304
       end: 579417
+    pagination: 252a
   3795875944e44cc4a884613e8b459a9e:
     imgnum: 506
     reference: 09240506.tif
     span:
       start: 579422
       end: 580488
+    pagination: 252b
   871cd68e73cd45c6a07fda42a8cac0c8:
     imgnum: 507
     reference: 09240507.tif
     span:
       start: 580493
       end: 581814
+    pagination: 253a
   80be489c799640599bdc29f350313e0d:
     imgnum: 508
     reference: 09240508.tif
     span:
       start: 581819
       end: 582692
+    pagination: 253b
   82e67dec21d540bd8a40b99b06637a38:
     imgnum: 509
     reference: 09240509.tif
     span:
       start: 582697
       end: 583979
+    pagination: 254a
   8d7708d9b0734590883d577db44983ca:
     imgnum: 510
     reference: 09240510.tif
     span:
       start: 583984
       end: 585346
+    pagination: 254b
   ba3974987bf4429a94473bd25a4e9a07:
     imgnum: 511
     reference: 09240511.tif
     span:
       start: 585351
       end: 586502
+    pagination: 255a
   87d8e53f6dd24946801b020ccc00bfb6:
     imgnum: 512
     reference: 09240512.tif
     span:
       start: 586507
       end: 587615
+    pagination: 255b
   682bbc5724d540f787b2802edf976206:
     imgnum: 513
     reference: 09240513.tif
     span:
       start: 587620
       end: 588976
+    pagination: 256a
   6705992fca2e48fcae3e3a56c5138ecb:
     imgnum: 514
     reference: 09240514.tif
     span:
       start: 588981
       end: 590189
+    pagination: 256b
   645edf77d9e64dc0838452df9f6d9054:
     imgnum: 515
     reference: 09240515.tif
     span:
       start: 590194
       end: 591473
+    pagination: 257a
   cd231a2685984255bf503c580048deb0:
     imgnum: 516
     reference: 09240516.tif
     span:
       start: 591478
       end: 592829
+    pagination: 257b
   35aef9eae9474a1fb4358272a01abe87:
     imgnum: 517
     reference: 09240517.tif
     span:
       start: 592834
       end: 594263
+    pagination: 258a
   dbf85b0841f6456187a3699dd7194f8e:
     imgnum: 518
     reference: 09240518.tif
     span:
       start: 594268
       end: 595031
+    pagination: 258b
   351219761f8d4db2b7546c1a3fd67ada:
     imgnum: 519
     reference: 09240519.tif
     span:
       start: 595036
       end: 596211
+    pagination: 259a
   0bd69e29dab2492ab3882eab7fb49b81:
     imgnum: 520
     reference: 09240520.tif
     span:
       start: 596216
       end: 597554
+    pagination: 259b
   a63aec83295f4766baf9eb79a3d76b75:
     imgnum: 521
     reference: 09240521.tif
     span:
       start: 597559
       end: 598839
+    pagination: 260a
   9d8862e9f7a24e068947137fcd7f9bf3:
     imgnum: 522
     reference: 09240522.tif
     span:
       start: 598844
       end: 600139
+    pagination: 260b
   dde73c8acb974cbb94193b70326f23d7:
     imgnum: 523
     reference: 09240523.tif
     span:
       start: 600144
       end: 600981
+    pagination: 261a
   0ffc2d46aeb74ed08aebe851cd4353bc:
     imgnum: 524
     reference: 09240524.tif
     span:
       start: 600986
       end: 602137
+    pagination: 261b
   6f10bac7e46f452dba6d494e1edf294e:
     imgnum: 525
     reference: 09240525.tif
     span:
       start: 602142
       end: 603478
+    pagination: 262a
   cc5bb2e13d4a401da015e2df57b3ab99:
     imgnum: 526
     reference: 09240526.tif
     span:
       start: 603483
       end: 604591
+    pagination: 262b
   a9213c0fb21041208b0789b8c0a00125:
     imgnum: 527
     reference: 09240527.tif
     span:
       start: 604596
       end: 605653
+    pagination: 263a
   c6493823931847f0bc96a161bb5e23cb:
     imgnum: 528
     reference: 09240528.tif
     span:
       start: 605658
       end: 606872
+    pagination: 263b
   79d20e1b89b34616ba1e0f8286f1c380:
     imgnum: 529
     reference: 09240529.tif
     span:
       start: 606877
       end: 607846
+    pagination: 264a
   1bd0c85044de4584a8634a68d3bcd968:
     imgnum: 530
     reference: 09240530.tif
     span:
       start: 607851
       end: 609055
+    pagination: 264b
   62b7e16a8302472986f3382b8bbcfa89:
     imgnum: 531
     reference: 09240531.tif
     span:
       start: 609060
       end: 610001
+    pagination: 265a
   34add46f55054cbd9ccb772b3aceb7f5:
     imgnum: 532
     reference: 09240532.tif
     span:
       start: 610006
       end: 611006
+    pagination: 265b
   11ecd0a204454a75a737e481aad4987c:
     imgnum: 533
     reference: 09240533.tif
     span:
       start: 611011
       end: 612117
+    pagination: 266a
   d252aaa1d0404437ad73d44c951b6a6a:
     imgnum: 534
     reference: 09240534.tif
     span:
       start: 612122
       end: 612679
+    pagination: 266b
   3897e7b74e6a4c57b2ad6732d5a3607b:
     imgnum: 535
     reference: 09240535.tif
     span:
       start: 612684
       end: 613707
+    pagination: 267a
   1f58bb46a8e4419698e1af717f391176:
     imgnum: 536
     reference: 09240536.tif
     span:
       start: 613712
       end: 614669
+    pagination: 267b
   3a383bb4f0b542b3a19679b4ba007718:
     imgnum: 537
     reference: 09240537.tif
     span:
       start: 614674
       end: 615009
+    pagination: 268a
   d94579145cc944708636370c3b306b8c:
     imgnum: 538
     reference: 09240538.tif
     span:
       start: 615014
       end: 616275
+    pagination: 268b
   2f2b22a4619c48b58155702329996a90:
     imgnum: 539
     reference: 09240539.tif
     span:
       start: 616280
       end: 617471
+    pagination: 269a
   7c6b0c81b5714d3d86821a4e0fb2f3e6:
     imgnum: 540
     reference: 09240540.tif
     span:
       start: 617476
       end: 618730
+    pagination: 269b
   c2e1df7aef54452997753ebb0524ed72:
     imgnum: 541
     reference: 09240541.tif
     span:
       start: 618735
       end: 618944
+    pagination: 270a
